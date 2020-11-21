@@ -1,2 +1,2 @@
-Applied Estimation
+Applied Estimation Project
 
